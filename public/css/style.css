@@ -1,0 +1,14 @@
+body{
+  color:#333333;
+  font-family:arial;
+  max-width:650px;
+  margin:0 auto;
+  padding:0 16px;
+}
+#title{
+  color:red;
+}
+img{
+  width: 200px;
+  height: 100px;
+}
